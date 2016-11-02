@@ -1,4 +1,4 @@
-package com.devscratches.builderdsample.fuctional;
+package com.devscratches.builderdsample.functional;
 
 import org.junit.Test;
 
